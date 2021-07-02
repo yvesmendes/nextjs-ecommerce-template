@@ -1,0 +1,26 @@
+{
+  "name": "@contentstack/contentstack-nextjs-sales-demo",
+  "version": "1.0.0",
+  "author": "Contentstack",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "contentstack": "^3.10.1",
+    "cross-fetch": "^3.0.6",
+    "dotenv": "^8.2.0",
+    "dotenv-webpack": "^6.0.0",
+    "moment": "^2.29.1",
+    "next": "10.0.5",
+    "next-cookies": "^2.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-plugin-react": "^7.20.3"
+  }
+}
